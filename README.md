@@ -1,5 +1,4 @@
-# <h1 align="center">Data-Engineering-Project</h1>
-# ![image](https://user-images.githubusercontent.com/109748639/229044146-880c88f3-ef27-44b5-b3ab-88bd4cd62b33.png)
+# <h1 align="center">ML-Solution-for-Banking-Analytics</h1>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
